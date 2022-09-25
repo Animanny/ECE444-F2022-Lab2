@@ -10,7 +10,7 @@ This is Ani Srikanth's copy of the https://github.com/miguelgrinberg/flasky repo
 ![image](https://user-images.githubusercontent.com/14436239/192129173-e186ada7-7d87-4dd2-9d49-0e9ccd32fc87.png)
 
 ### Activity 3
-![image](https://user-images.githubusercontent.com/14436239/192132365-03d95012-27cf-4562-94d5-8da41c3797c6.png)
+![image](https://user-images.githubusercontent.com/14436239/192156466-8bfc9e76-9ffa-45cf-bcd5-46279ea886d6.png)
 
 ### Activity 4
 
